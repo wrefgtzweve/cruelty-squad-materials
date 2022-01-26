@@ -1,0 +1,14 @@
+{
+    "title": "Cruelty squad map texturizer",
+    "description": "This addon turns all maps into cruelty squad look alikes",
+    "type": "effects",
+    "tags": [
+        "fun",
+        "scenic"
+    ],
+    "ignore": [
+        ".git/*",
+        "README.md",
+        ".gma"
+    ]
+}
